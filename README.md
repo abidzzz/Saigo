@@ -2,7 +2,8 @@
    <a href="https://github.com/rapptz/discord.py" target="_blank">
      <img src="https://img.shields.io/badge/discord.py-2.0.0a-blue?style=flat-square" />
    </a>
-
+  ![Discord.py-Version](https://img.shields.io/badge/discord.py-2.0.0a-blue?style=flat-square)
+   ![Python-Version](https://img.shields.io/badge/python-3.8.5-green?style=flat-square)</p>
 # Saigo
 
 A multipurpose fun , leveling, nsfw discord bot made because a friend of mine requested to

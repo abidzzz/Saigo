@@ -21,6 +21,11 @@ Since am lazy to type them all have this image
 </p>
 
 
+## Licence
+
+[Apache License 2.0](https://github.com/obitozx/Saigo/blob/main/LICENSE)
+
+
 ## Contribute
 
 if you wish to contribute [click here](https://github.com/obitozx/Saigo/blob/main/CONTRIBUTING.md)

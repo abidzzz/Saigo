@@ -7,9 +7,9 @@
 A multipurpose fun , leveling, nsfw discord bot made because a friend of mine requested to
 Was originally supposed to be an nsfw bot bot but i added more commands
 
-## Contribute
-
-If you want to contribute conside staring ⭐️ the repository 
+## Features
+Since am lazy to type them all have this image
+<img src="image.png"></image>
 
 Would appreciate if you use the code with credits
 

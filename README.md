@@ -14,7 +14,10 @@ would do sooner or later
 
 ## Features
 Since am lazy to type them all have this image
-<p align="left"><img src="image.png"></image>
+<p align="left">
+<img src="image.png"></image>
+<img src="image2.png"></image>
+<img src="image3.png"></image>
 </p>
 
 

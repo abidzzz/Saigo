@@ -4,17 +4,19 @@
 
 # Saigo
 
-A multipurpose fun , leveling, nsfw discord bot made because a friend of mine requested to
+A multipurpose fun , leveling, nsfw discord private bot made because a friend of mine requested to
 Was originally supposed to be an nsfw bot bot but i added more commands
 
-Currently it might have few bugs in leveling system since i didnt properly update it to discordpy 2.0
+Currently it might have few bugs in leveling system 
 
-would do soner or later
+would do sooner or later
+
 
 ## Features
 Since am lazy to type them all have this image
 <p align="left"><img src="image.png"></image>
 </p>
+
 
 ## Contribute
 

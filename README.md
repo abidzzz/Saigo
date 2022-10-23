@@ -8,6 +8,7 @@ A multipurpose fun , leveling, nsfw discord bot made because a friend of mine re
 Was originally supposed to be an nsfw bot bot but i added more commands
 
 Currently it might have few bugs in leveling system since i didnt properly update it to discordpy 2.0
+
 would do soner or later
 
 ## Features

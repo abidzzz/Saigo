@@ -5,7 +5,7 @@ import random
 import json
 import textwrap
 import os
-import nhentai as nh
+
 from disputils import BotEmbedPaginator
 
 wrapper = textwrap.TextWrapper(width=25)

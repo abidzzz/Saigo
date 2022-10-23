@@ -7,12 +7,18 @@
 A multipurpose fun , leveling, nsfw discord bot made because a friend of mine requested to
 Was originally supposed to be an nsfw bot bot but i added more commands
 
+Currently it might have few bugs in leveling system since i didnt properly update it to discordpy 2.0
+would do soner or later
+
 ## Features
 Since am lazy to type them all have this image
 <p align="left"><img src="image.png"></image>
 </p>
 
+## Contribute
+
+if you wish to contribute [click here](https://github.com/obitozx/Saigo/blob/main/CONTRIBUTING.md)
 
 
-Would appreciate if you use the code with credits
+_ Would appreciate if you use the code with credits and also star this repository _
 

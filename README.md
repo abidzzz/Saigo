@@ -20,5 +20,5 @@ Since am lazy to type them all have this image
 if you wish to contribute [click here](https://github.com/obitozx/Saigo/blob/main/CONTRIBUTING.md)
 
 
-_ Would appreciate if you use the code with credits and also star this repository _
+<tt>Would appreciate if you use the code with credits and also star this repository :) </tt>
 

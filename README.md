@@ -16,8 +16,8 @@ would do sooner or later
 Since am lazy to type them all have this image
 <p align="left">
 <img src="image.png"></image>
-<img src="image2.png"></image>
-<img src="image3.png"></image>
+<img src="image2.PNG"></image>
+<img src="image3.PNG"></image>
 </p>
 
 

@@ -7,9 +7,6 @@
 A multipurpose fun , leveling, nsfw discord private bot made because a friend of mine requested to
 Was originally supposed to be an nsfw bot bot but i added more commands
 
-Currently it might have few bugs in leveling system 
-
-would do sooner or later
 
 
 ## Features

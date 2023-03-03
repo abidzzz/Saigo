@@ -4,7 +4,7 @@
 
 # Saigo
 
-A multipurpose fun , leveling, nsfw discord private bot made because a friend of mine requested to
+A multipurpose fun , leveling discord private bot made because a friend of mine requested to
 Was originally supposed to be an nsfw bot bot but i added more commands
 
 

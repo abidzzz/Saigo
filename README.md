@@ -30,4 +30,5 @@ if you wish to contribute [click here](https://github.com/obitozx/Saigo/blob/mai
 
 <tt>Would appreciate if you use the code with credits and also star this repository :) </tt>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/abidxz)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/abidz)
